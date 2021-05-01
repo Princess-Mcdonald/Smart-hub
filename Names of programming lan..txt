@@ -1,0 +1,9 @@
+Seven Names Of Programming Languages.
+1)Phython
+2)Go
+3)JavaScript
+4)Lua
+5)TypeScript
+6)PHP
+7)Dart
+
